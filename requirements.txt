@@ -1,0 +1,6 @@
+opencv-python
+facenet-pytorch
+torch
+torchvision
+torchaudio
+pillow
